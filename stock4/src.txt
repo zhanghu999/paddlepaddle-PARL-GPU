@@ -1,0 +1,2 @@
+https://github.com/wangshub/RL-Stock
+pip install baostock -i https://pypi.tuna.tsinghua.edu.cn/simple/ --trusted-host pypi.tuna.tsinghua.edu.cn
